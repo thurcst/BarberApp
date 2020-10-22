@@ -37,12 +37,12 @@ export default function App(){
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#303030',
+    backgroundColor: '#6369D1',
     alignItems: 'center',
     justifyContent: 'center',
   },
   temp_text:{
-    color: '#2ec356',
+    color: '#34435E',
     fontSize: 50,
   },
 });
