@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   temp_text:{
-    color: '#fff',
+    color: '#2ec356',
     fontSize: 50,
   },
 });
