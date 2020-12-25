@@ -13,7 +13,7 @@ export default function Main(){
   return(
     <UserContextProvider>
       <NavigationContainer>
-        <StatusBar style = "auto"/>
+        <StatusBar hidden/>
         <Stacks/>
       </NavigationContainer>
     </UserContextProvider>
